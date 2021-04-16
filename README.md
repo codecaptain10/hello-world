@@ -12,7 +12,7 @@ They are:
   - JavaScript
     - DOM Manipulation
     - ES6
-    - functonal programming
+    - functional programming
     - OOP
     - REST API
   - TypeScript
