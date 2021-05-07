@@ -21,5 +21,7 @@ They are:
     - Express.js   
 
 Czeski is the best!
+
+Work hard! Stay positive!
   
   
